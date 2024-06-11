@@ -1,0 +1,18 @@
+{
+    "name": "marvic/tempconv",
+    "description": "simple convertidor",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marvic\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marvic"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
